@@ -14,7 +14,7 @@ function initMap() {
     {lat: 38.886376, lng: -84.788171},
     {lat: 38.858641, lng: -84.791018},
     {lat: 38.780534, lng: -84.661928},
-    {lat: 38.794186, lng: -84.603628},
+    {lat: 38.746304, lng: -84.607614},
     {lat: 38.806760, lng: -84.422011},
     {lat: 38.876017, lng: -84.233750},
     {lat: 39.031688, lng: -84.336116},
@@ -22,6 +22,7 @@ function initMap() {
     {lat: 39.118300, lng: -84.457465},
     {lat: 39.071570, lng: -84.617239}
   ];
+
 
   // Construct the polygon.
   var notaryCoverage = new google.maps.Polygon({
